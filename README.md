@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,html,css,mysql,mongodb,docker,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,mongodb,git,github&perline=8" />
 </p>
 
 ---
@@ -31,12 +31,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-eight.vercel.app/api?username=venncoder08&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-psi-vert.vercel.app/api?username=venncoder08&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
   <img src="https://streak-stats.demolab.com/?user=venncoder08&theme=radical&hide_border=true" height="165" />
 </p>
 
+---
+
+### 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-eight.vercel.app/api/top-langs/?username=venncoder08&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venncoder08&theme=react-dark&hide_border=true" width="95%" />
 </p>
 
 ---
