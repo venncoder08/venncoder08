@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🌱 Learning **NodeJs**
+- 🌱 Learning **Spring boot, redis, kafka, k8s**
 - 📫 Reach me at **ongkhanhv2005@gmail.com**
 
 ---
